@@ -11,3 +11,5 @@ Currently, two official plugins are available:
 # Bloggy
 
 - Start with env and then create a conf file so that the env variables are stored over there and returned in the form of string ,(which is necessary for production grade application)
+
+Client -> account

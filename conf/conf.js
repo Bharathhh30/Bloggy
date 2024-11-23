@@ -3,7 +3,7 @@ const conf = {
     appwriteProjectId : String(import.meta.VITE_APPWRITE_PROJECT_ID),
     appwriteCollectionId : String(import.meta.VITE_APPWRITE_COLLECTION_ID),
     appwriteDatabaseId : String(import.meta.VITE_APPWRITE_DATABASE_ID),
-    appwriteBuckerId : String(import.meta.VITE_APPWRITE_BUCKET_ID),
+    appwriteBucketId : String(import.meta.VITE_APPWRITE_BUCKET_ID),
 }
 
 export default conf
