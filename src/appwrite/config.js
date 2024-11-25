@@ -1,6 +1,6 @@
 // appwrite configuration
 
-import conf from '../config.js';
+import conf from '../conf/conf.js';
 import { Account, Client , ID , Databases , Storage , Query} from 'appwrite';
 
 export class DatabaseService{
